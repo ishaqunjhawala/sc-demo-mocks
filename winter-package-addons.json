@@ -11,7 +11,8 @@
       "price_per_person": 119,
       "price_total": 238,
       "why": "The most-chosen add-on for February bookings made this far ahead.",
-      "sentence": "Worry Free Plus is 119 dollars per person, 238 dollars for the two of you, and lets you cancel for any reason up to 3 hours before departure."
+      "sentence": "Worry Free Plus is 119 dollars per person, 238 dollars for the two of you, and lets you cancel for any reason up to 3 hours before departure.",
+      "addon_line": "**Worry Free Plus** - **$119 per person** - cancel for any reason up to 3 hours before departure."
     },
     {
       "id": "transfer",
@@ -21,7 +22,8 @@
       "price_per_person": 140,
       "price_total": 280,
       "why": "Skips the shared shuttle, which can add over an hour on arrival.",
-      "sentence": "Private transfers are 140 dollars per person, 280 dollars for the two of you, round trip, and skip the shared shuttle."
+      "sentence": "Private transfers are 140 dollars per person, 280 dollars for the two of you, round trip, and skip the shared shuttle.",
+      "addon_line": "**Private Transfers** - **$140 per person** - round trip, airport to resort, private vehicle instead of the shared shuttle."
     },
     {
       "id": "premium",
@@ -31,7 +33,9 @@
       "price_per_person": 199,
       "price_total": 398,
       "why": "New for winter 2026-27 on WestJet sun routes.",
-      "sentence": "Premium cabin is 199 dollars per person, 398 dollars for the two of you, for premium seating at the front of the WestJet aircraft."
+      "sentence": "Premium cabin is 199 dollars per person, 398 dollars for the two of you, for premium seating at the front of the WestJet aircraft.",
+      "addon_line": "**Premium Cabin** - **$199 per person** - premium seating at the front of the WestJet aircraft, extra legroom and priority boarding."
     }
-  ]
+  ],
+  "intro_sentence": "Three things worth adding before checkout. Tap any you want, or skip them all."
 }

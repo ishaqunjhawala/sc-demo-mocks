@@ -60,7 +60,8 @@
         "20 minute transfer from Puerto Plata (POP)"
       ],
       "image_url": "https://www.selloffvacations.com/",
-      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2"
+      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
+      "option_line": "**Option 1 - Cofresi Palm Beach Resort and Spa**, Puerto Plata - **$1,890 per person** - closest match on price, and Cofresi beach is a long protected bay rather than a party strip."
     },
     {
       "id": "BLUEBAY",
@@ -102,7 +103,8 @@
         "15 minute transfer from Puerto Plata (POP)"
       ],
       "image_url": "https://www.selloffvacations.com/",
-      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=32&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2"
+      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=32&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
+      "option_line": "**Option 2 - Bluebay Villas Doradas**, Puerto Plata - **$1,955 per person** - adults only, 18 and over, and the quietest beach of the three."
     },
     {
       "id": "CAYACOA",
@@ -143,7 +145,11 @@
         "25 minute transfer from Samana El Catey (AZS)"
       ],
       "image_url": "https://www.selloffvacations.com/",
-      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=12748&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2"
+      "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=12748&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
+      "option_line": "**Option 3 - Eurostars Grand Cayacoa**, Samana - **$2,140 per person** - clifftop with a private cove, and February is humpback whale season in Samana Bay."
     }
-  ]
+  ],
+  "basis_sentence": "All three are all-inclusive, 7 nights, flying from Montreal on the same week you asked about.",
+  "price_gap_sentence": "One thing to flag: at $1,890 per person the first one runs about $190 more than a typical Varadero February. Cuba capacity coming out of the market has pushed Dominican pricing up for the peak weeks, so this is the closest I can get you on price without moving your dates.",
+  "closing_sentence": "Checkout will already have the package, the dates, the room, your extras and the price filled in. The only thing left to type is who is travelling."
 }
