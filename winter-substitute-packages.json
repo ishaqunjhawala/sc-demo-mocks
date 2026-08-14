@@ -61,7 +61,8 @@
       ],
       "image_url": "https://raw.githubusercontent.com/ishaqunjhawala/sc-demo-mocks/main/cofresi.jpg",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 1 - Cofresi Palm Beach Resort and Spa**, Puerto Plata - **$1,890 per person** - closest match on price, and Cofresi beach is a long protected bay rather than a party strip."
+      "option_line": "**Option 1 - Cofresi Palm Beach Resort and Spa**, Puerto Plata - **$1,890 per person** - closest match on price, and Cofresi beach is a long protected bay rather than a party strip.",
+      "locked_in_sentence": "Locked in: Cofresi Palm Beach Resort and Spa, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,780 total."
     },
     {
       "id": "BLUEBAY",
@@ -104,7 +105,8 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645035865/selloffvacations-prod/COUNTRY/Dominican%20Republic/Cabarete/cabarete-dominican-republic-012",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=32&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 2 - Bluebay Villas Doradas**, Puerto Plata - **$1,955 per person** - adults only, 18 and over, and the quietest beach of the three."
+      "option_line": "**Option 2 - Bluebay Villas Doradas**, Puerto Plata - **$1,955 per person** - adults only, 18 and over, and the quietest beach of the three.",
+      "locked_in_sentence": "Locked in: Bluebay Villas Doradas, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,910 total."
     },
     {
       "id": "CAYACOA",
@@ -146,7 +148,8 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036341/selloffvacations-prod/COUNTRY/Dominican%20Republic/Saman%C3%A1/samana-dominican-republic-008",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=12748&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 3 - Eurostars Grand Cayacoa**, Samana - **$2,140 per person** - clifftop with a private cove, and February is humpback whale season in Samana Bay."
+      "option_line": "**Option 3 - Eurostars Grand Cayacoa**, Samana - **$2,140 per person** - clifftop with a private cove, and February is humpback whale season in Samana Bay.",
+      "locked_in_sentence": "Locked in: Eurostars Grand Cayacoa, Samana. Montreal to Samana, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $4,280 total."
     }
   ],
   "basis_sentence": "All three are all-inclusive, 7 nights, flying from Montreal on the same week you asked about.",
