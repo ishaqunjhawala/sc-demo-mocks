@@ -11,11 +11,6 @@
     "board": "All-inclusive",
     "currency": "CAD"
   },
-  "advisory": {
-    "status": "CUBA_PAUSED",
-    "headline": "Cuba departures are paused for the winter 2026-27 season.",
-    "sentence": "Cuba departures are paused for the whole winter 2026-27 season, so I have pulled the closest all-inclusive matches from Montreal for the same week."
-  },
   "results_status": "PACKAGES_FOUND",
   "result_count": 3,
   "packages": [
@@ -34,11 +29,9 @@
       "price_total": 3780,
       "was_price_per_person": 2145,
       "save_percent": 12,
-      "price_sentence": "Cofresi Palm Beach Resort and Spa in Puerto Plata is 1,890 dollars per person, or 3,780 dollars for the two of you, all-inclusive for 7 nights.",
       "beach": "Long calm stretch of Cofresi beach, protected bay",
       "vibe": "Relaxed, family and couples mix, quiet by 10pm",
       "why_match": "Closest match on price and the calmest beach of the three.",
-      "why_match_sentence": "This is the closest match on price, and Cofresi beach is a long protected bay, so it is calm rather than a party strip.",
       "flight_summary": "WestJet, direct from Montreal to Puerto Plata",
       "flight_detail": "Depart Montreal 07:40, arrive Puerto Plata 12:05. Return departs 13:00, arrives Montreal 19:15.",
       "airport_code": "POP",
@@ -61,7 +54,6 @@
       ],
       "image_url": "https://raw.githubusercontent.com/ishaqunjhawala/sc-demo-mocks/main/cofresi.jpg",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 1 - Cofresi Palm Beach Resort and Spa**, Puerto Plata - **$1,890 per person** - closest match on price, and Cofresi beach is a long protected bay rather than a party strip.",
       "locked_in_sentence": "Locked in: Cofresi Palm Beach Resort and Spa, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,780 total.",
       "price_gap_note": "About $190/person over a typical Varadero February"
     },
@@ -80,11 +72,9 @@
       "price_total": 3910,
       "was_price_per_person": 2240,
       "save_percent": 13,
-      "price_sentence": "Bluebay Villas Doradas is 1,955 dollars per person, or 3,910 dollars for the two of you, all-inclusive for 7 nights.",
       "beach": "Playa Dorada, long protected stretch, quietest of the three",
       "vibe": "Adults only, 18 plus, very quiet",
       "why_match": "Adults only and the quietest beach, for 65 dollars more per person.",
-      "why_match_sentence": "This one is adults only and the quietest of the three, for 65 dollars more per person than the Cofresi.",
       "flight_summary": "WestJet, direct from Montreal to Puerto Plata",
       "flight_detail": "Depart Montreal 07:40, arrive Puerto Plata 12:05. Return departs 13:00, arrives Montreal 19:15.",
       "airport_code": "POP",
@@ -106,7 +96,6 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645035865/selloffvacations-prod/COUNTRY/Dominican%20Republic/Cabarete/cabarete-dominican-republic-012",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=32&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 2 - Bluebay Villas Doradas**, Puerto Plata - **$1,955 per person** - adults only, 18 and over, and the quietest beach of the three.",
       "locked_in_sentence": "Locked in: Bluebay Villas Doradas, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,910 total."
     },
     {
@@ -124,11 +113,9 @@
       "price_total": 4280,
       "was_price_per_person": 2395,
       "save_percent": 11,
-      "price_sentence": "Eurostars Grand Cayacoa in Samana is 2,140 dollars per person, or 4,280 dollars for the two of you, all-inclusive for 7 nights.",
       "beach": "Private cove below a clifftop setting",
       "vibe": "Greener and more remote, nature focused",
       "why_match": "The February whale season in Samana Bay, if they want something different from Varadero.",
-      "why_match_sentence": "This is the one to pick if they want something genuinely different. February is humpback whale season in Samana Bay.",
       "flight_summary": "WestJet, direct from Montreal to Samana",
       "flight_detail": "Depart Montreal 08:15, arrive Samana 13:00. Return departs 14:00, arrives Montreal 20:05.",
       "airport_code": "AZS",
@@ -149,12 +136,9 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036341/selloffvacations-prod/COUNTRY/Dominican%20Republic/Saman%C3%A1/samana-dominican-republic-008",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=12748&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "option_line": "**Option 3 - Eurostars Grand Cayacoa**, Samana - **$2,140 per person** - clifftop with a private cove, and February is humpback whale season in Samana Bay.",
       "locked_in_sentence": "Locked in: Eurostars Grand Cayacoa, Samana. Montreal to Samana, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $4,280 total."
     }
   ],
-  "basis_sentence": "All three are all-inclusive, 7 nights, flying from Montreal on the same week you asked about.",
-  "price_gap_sentence": "One thing to flag: at $1,890 per person the first one runs about $190 more than a typical Varadero February. Cuba capacity coming out of the market has pushed Dominican pricing up for the peak weeks, so this is the closest I can get you on price without moving your dates.",
   "closing_sentence": "Checkout will already have the package, the dates, the room, your extras and the price filled in. The only thing left to type is who is travelling.",
   "results_sentence": "Here are the three closest matches for that week."
 }
