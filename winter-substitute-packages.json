@@ -62,7 +62,8 @@
       "image_url": "https://raw.githubusercontent.com/ishaqunjhawala/sc-demo-mocks/main/cofresi.jpg",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
       "option_line": "**Option 1 - Cofresi Palm Beach Resort and Spa**, Puerto Plata - **$1,890 per person** - closest match on price, and Cofresi beach is a long protected bay rather than a party strip.",
-      "locked_in_sentence": "Locked in: Cofresi Palm Beach Resort and Spa, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,780 total."
+      "locked_in_sentence": "Locked in: Cofresi Palm Beach Resort and Spa, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,780 total.",
+      "price_gap_note": "About $190/person over a typical Varadero February"
     },
     {
       "id": "BLUEBAY",
@@ -154,5 +155,6 @@
   ],
   "basis_sentence": "All three are all-inclusive, 7 nights, flying from Montreal on the same week you asked about.",
   "price_gap_sentence": "One thing to flag: at $1,890 per person the first one runs about $190 more than a typical Varadero February. Cuba capacity coming out of the market has pushed Dominican pricing up for the peak weeks, so this is the closest I can get you on price without moving your dates.",
-  "closing_sentence": "Checkout will already have the package, the dates, the room, your extras and the price filled in. The only thing left to type is who is travelling."
+  "closing_sentence": "Checkout will already have the package, the dates, the room, your extras and the price filled in. The only thing left to type is who is travelling.",
+  "results_sentence": "Here are the three closest matches for that week."
 }
