@@ -1,0 +1,43 @@
+{
+  "advisory_status": "CUBA_PAUSED",
+  "gateway": "YUL",
+  "gateway_name": "Montreal",
+  "travel_window": "February 2027",
+  "currency": "CAD",
+  "reference_price_per_person": 1700,
+  "reference_note": "Typical Varadero all-inclusive, 7 nights, February, per person",
+  "headline_sentence": "Cuba departures are paused for the whole winter 2026-27 season. Three sun destinations sit in the same price bracket from Montreal for a February week.",
+  "options_status": "DESTINATIONS_FOUND",
+  "destinations": [
+    {
+      "id": "DR",
+      "rank": 1,
+      "name": "Dominican Republic",
+      "regions": "Puerto Plata, Samana, Punta Cana",
+      "from_price_per_person": 1890,
+      "flight_time": "About 4 hours 30 minutes, direct",
+      "why": "The closest match on price, and the same all-inclusive format Varadero travellers are used to.",
+      "option_line": "**Dominican Republic** - from **$1,890 per person** - Puerto Plata, Samana or Punta Cana. Closest on price, same all-inclusive format, about 4h30 direct."
+    },
+    {
+      "id": "MEXICO",
+      "rank": 2,
+      "name": "Pacific Mexico",
+      "regions": "Puerto Vallarta, Los Cabos, Riviera Nayarit",
+      "from_price_per_person": 2040,
+      "flight_time": "About 6 hours, direct",
+      "why": "Bigger resorts and more to do off-property, for about $150 more per person.",
+      "option_line": "**Pacific Mexico** - from **$2,040 per person** - Puerto Vallarta or Los Cabos. Bigger resorts and more to do off-property, about 6h direct."
+    },
+    {
+      "id": "JAMAICA",
+      "rank": 3,
+      "name": "Jamaica",
+      "regions": "Montego Bay, Negril, Ocho Rios",
+      "from_price_per_person": 2120,
+      "flight_time": "About 4 hours 15 minutes, direct",
+      "why": "The shortest flight of the three and the strongest beaches, at the top of the bracket.",
+      "option_line": "**Jamaica** - from **$2,120 per person** - Montego Bay or Negril. Shortest flight of the three and the best beaches, at the top of the bracket."
+    }
+  ]
+}
