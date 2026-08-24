@@ -55,7 +55,34 @@
       "image_url": "https://raw.githubusercontent.com/ishaqunjhawala/sc-demo-mocks/main/cofresi.jpg",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=10018&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
       "locked_in_sentence": "Locked in: Cofresi Palm Beach Resort and Spa, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,780 total.",
-      "price_gap_note": "About $190/person over a typical Varadero February"
+      "price_gap_note": "About $190/person over a typical Varadero February",
+      "fr": {
+        "city": "Puerto Plata",
+        "country": "République dominicaine",
+        "board": "Tout-inclus",
+        "room_included": "Chambre Deluxe, vue jardin",
+        "why_match": "L'équivalent le plus proche côté prix, et la plage de Cofresi est une longue baie protégée plutôt qu'un secteur festif.",
+        "price_gap_note": "Environ 190 $/personne de plus qu'un février typique à Varadero",
+        "flight_summary": "WestJet, sans escale de Montréal à Puerto Plata",
+        "flight_detail": "Départ de Montréal à 7 h 40, arrivée à Puerto Plata à 12 h 05. Retour à 13 h 00, arrivée à Montréal à 19 h 15.",
+        "transfer_time": "20 minutes de l'aéroport de Puerto Plata",
+        "inclusions": [
+          "Tous les repas et collations : buffet et 6 restaurants à la carte",
+          "Boissons locales et importées à volonté",
+          "Accès au parc aquatique Bravissimo inclus",
+          "Spectacles et animation en soirée",
+          "Sports nautiques non motorisés : kayaks, planches à pagaie, tuba",
+          "Club enfants de 4 à 12 ans",
+          "Centre de conditionnement physique et 2 courts de tennis",
+          "Casino sur place",
+          "WiFi gratuit dans tout le complexe"
+        ],
+        "important_info": [
+          "2 réservations au restaurant à la carte incluses par séjour",
+          "Aucuns frais de complexe",
+          "Transfert de 20 minutes depuis Puerto Plata (POP)"
+        ]
+      }
     },
     {
       "id": "BLUEBAY",
@@ -96,7 +123,32 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645035865/selloffvacations-prod/COUNTRY/Dominican%20Republic/Cabarete/cabarete-dominican-republic-012",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=32&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "locked_in_sentence": "Locked in: Bluebay Villas Doradas, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,910 total."
+      "locked_in_sentence": "Locked in: Bluebay Villas Doradas, Puerto Plata. Montreal to Puerto Plata, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $3,910 total.",
+      "fr": {
+        "city": "Puerto Plata",
+        "country": "République dominicaine",
+        "board": "Tout-inclus, adultes seulement",
+        "room_included": "Chambre Supérieure",
+        "why_match": "Adultes seulement et la plage la plus tranquille, pour 65 $ de plus par personne.",
+        "flight_summary": "WestJet, sans escale de Montréal à Puerto Plata",
+        "flight_detail": "Départ de Montréal à 7 h 40, arrivée à Puerto Plata à 12 h 05. Retour à 13 h 00, arrivée à Montréal à 19 h 15.",
+        "transfer_time": "15 minutes de l'aéroport de Puerto Plata",
+        "inclusions": [
+          "Tous les repas : buffet et 4 restaurants à la carte",
+          "Boissons à volonté, marques premium incluses",
+          "Adultes seulement, 18 ans et plus, aucun enfant sur le site",
+          "Droits de jeu gratuits au golf de Playa Dorada à proximité",
+          "Sports nautiques non motorisés",
+          "2 piscines dont une piscine tranquille pour adultes",
+          "Centre de conditionnement physique",
+          "WiFi gratuit"
+        ],
+        "important_info": [
+          "Strictement adultes seulement, 18 ans et plus",
+          "Les soins au spa sont en supplément",
+          "Transfert de 15 minutes depuis Puerto Plata (POP)"
+        ]
+      }
     },
     {
       "id": "CAYACOA",
@@ -136,9 +188,37 @@
       ],
       "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036341/selloffvacations-prod/COUNTRY/Dominican%20Republic/Saman%C3%A1/samana-dominican-republic-008",
       "package_url": "https://shopping.selloffvacations.com/cgi-bin/handler.cgi?code_ag=drv&alias=drv&gateway_dep=YUL&dest_dep=ALL&no_hotel=12748&date_dep=20270214&duration=7DAYS&searchtype=PA&language=en&nb_rooms=1&nb_adult=2",
-      "locked_in_sentence": "Locked in: Eurostars Grand Cayacoa, Samana. Montreal to Samana, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $4,280 total."
+      "locked_in_sentence": "Locked in: Eurostars Grand Cayacoa, Samana. Montreal to Samana, Sunday, February 14, 2027 to Sunday, February 21, 2027, 2 adults, $4,280 total.",
+      "fr": {
+        "city": "Samaná",
+        "country": "République dominicaine",
+        "board": "Tout-inclus",
+        "room_included": "Chambre Standard, vue sur la baie",
+        "why_match": "À choisir pour du vraiment différent : février, c'est la saison des baleines à bosse dans la baie de Samaná.",
+        "flight_summary": "WestJet, sans escale de Montréal à Samaná",
+        "flight_detail": "Départ de Montréal à 8 h 15, arrivée à Samaná à 13 h 00. Retour à 14 h 00, arrivée à Montréal à 20 h 05.",
+        "transfer_time": "25 minutes de l'aéroport de Samaná El Catey",
+        "inclusions": [
+          "Tous les repas : buffet et 3 restaurants à la carte",
+          "Boissons à volonté",
+          "Situé sur une falaise avec une crique privée",
+          "Saison d'observation des baleines à bosse de janvier à mars dans la baie de Samaná",
+          "2 piscines",
+          "Sports nautiques non motorisés",
+          "WiFi gratuit"
+        ],
+        "important_info": [
+          "Plus isolé, moins d'options à l'extérieur du complexe",
+          "Les excursions d'observation des baleines sont en supplément — réservez tôt en février",
+          "Transfert de 25 minutes depuis Samaná El Catey (AZS)"
+        ]
+      }
     }
   ],
   "closing_sentence": "Checkout will already have the package, the dates, the room, your extras and the price filled in. The only thing left to type is who is travelling.",
-  "results_sentence": "Here are the three closest matches for that week."
+  "results_sentence": "Here are the three closest matches for that week.",
+  "fr": {
+    "results_sentence": "Voici les trois options les plus proches pour cette semaine-là.",
+    "closing_sentence": "Le paiement contiendra déjà le forfait, les dates, la chambre, vos extras et le prix. Il ne reste qu'à indiquer qui voyage."
+  }
 }

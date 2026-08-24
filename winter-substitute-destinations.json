@@ -18,7 +18,13 @@
       "flight_time": "About 4 hours 30 minutes, direct",
       "why": "The closest match on price, and the same all-inclusive format Varadero travellers are used to.",
       "option_line": "**Dominican Republic** - from **$1,890 per person** - Puerto Plata, Samana or Punta Cana. Closest on price, same all-inclusive format, about 4h30 direct.",
-      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036325/selloffvacations-prod/COUNTRY/Dominican%20Republic/Punta%20Cana/punta-cana-dominican-republic-012"
+      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036325/selloffvacations-prod/COUNTRY/Dominican%20Republic/Punta%20Cana/punta-cana-dominican-republic-012",
+      "fr": {
+        "name": "République dominicaine",
+        "regions": "Puerto Plata, Samaná, Punta Cana",
+        "why": "L'équivalent le plus proche côté prix, avec la même formule tout-inclus que vous connaissez.",
+        "flight_time": "Environ 4 h 30, sans escale"
+      }
     },
     {
       "id": "MEXICO",
@@ -29,7 +35,13 @@
       "flight_time": "About 6 hours, direct",
       "why": "Bigger resorts and more to do off-property, for about $150 more per person.",
       "option_line": "**Pacific Mexico** - from **$2,040 per person** - Puerto Vallarta or Los Cabos. Bigger resorts and more to do off-property, about 6h direct.",
-      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645038603/selloffvacations-prod/COUNTRY/Mexico/Puerto%20Vallarta/puerto-vallarta-mexico-004"
+      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645038603/selloffvacations-prod/COUNTRY/Mexico/Puerto%20Vallarta/puerto-vallarta-mexico-004",
+      "fr": {
+        "name": "Mexique — côte Pacifique",
+        "regions": "Puerto Vallarta, Los Cabos, Riviera Nayarit",
+        "why": "De plus grands complexes et plus à faire à l'extérieur, pour environ 150 $ de plus par personne.",
+        "flight_time": "Environ 6 h, sans escale"
+      }
     },
     {
       "id": "JAMAICA",
@@ -40,7 +52,13 @@
       "flight_time": "About 4 hours 15 minutes, direct",
       "why": "The shortest flight of the three and the strongest beaches, at the top of the bracket.",
       "option_line": "**Jamaica** - from **$2,120 per person** - Montego Bay or Negril. Shortest flight of the three and the best beaches, at the top of the bracket.",
-      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036625/selloffvacations-prod/COUNTRY/Jamaica/Montego%20Bay/montego-bay-jamaica-005"
+      "image_url": "https://assets.sunwingtravelgroup.com/image/upload//g_auto%2Cc_lfill,q_auto,f_auto,w_760,h_427/v1645036625/selloffvacations-prod/COUNTRY/Jamaica/Montego%20Bay/montego-bay-jamaica-005",
+      "fr": {
+        "name": "Jamaïque",
+        "regions": "Montego Bay, Negril, Ocho Rios",
+        "why": "Le vol le plus court des trois et les plus belles plages, en haut de la fourchette.",
+        "flight_time": "Environ 4 h 15, sans escale"
+      }
     }
   ]
 }

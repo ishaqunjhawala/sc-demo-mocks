@@ -12,7 +12,12 @@
       "price_total": 238,
       "why": "The most-chosen add-on for February bookings made this far ahead.",
       "sentence": "Worry Free Plus is 119 dollars per person, 238 dollars for the two of you, and lets you cancel for any reason up to 3 hours before departure.",
-      "addon_line": "**Worry Free Plus** - **$119 per person** - cancel for any reason up to 3 hours before departure."
+      "addon_line": "**Worry Free Plus** - **$119 per person** - cancel for any reason up to 3 hours before departure.",
+      "fr": {
+        "name": "Worry Free Plus",
+        "description": "Annulation pour tout motif jusqu'à 3 heures avant le départ",
+        "why": "L'ajout le plus choisi pour les réservations de février faites aussi tôt."
+      }
     },
     {
       "id": "transfer",
@@ -23,7 +28,12 @@
       "price_total": 280,
       "why": "Skips the shared shuttle, which can add over an hour on arrival.",
       "sentence": "Private transfers are 140 dollars per person, 280 dollars for the two of you, round trip, and skip the shared shuttle.",
-      "addon_line": "**Private Transfers** - **$140 per person** - round trip, airport to resort, private vehicle instead of the shared shuttle."
+      "addon_line": "**Private Transfers** - **$140 per person** - round trip, airport to resort, private vehicle instead of the shared shuttle.",
+      "fr": {
+        "name": "Transferts privés",
+        "description": "Aller-retour, aéroport au complexe, véhicule privé au lieu de la navette partagée",
+        "why": "Évite la navette partagée, qui peut ajouter plus d'une heure à l'arrivée."
+      }
     },
     {
       "id": "premium",
@@ -34,8 +44,16 @@
       "price_total": 398,
       "why": "New for winter 2026-27 on WestJet sun routes.",
       "sentence": "Premium cabin is 199 dollars per person, 398 dollars for the two of you, for premium seating at the front of the WestJet aircraft.",
-      "addon_line": "**Premium Cabin** - **$199 per person** - premium seating at the front of the WestJet aircraft, extra legroom and priority boarding."
+      "addon_line": "**Premium Cabin** - **$199 per person** - premium seating at the front of the WestJet aircraft, extra legroom and priority boarding.",
+      "fr": {
+        "name": "Cabine Premium",
+        "description": "Sièges premium à l'avant de l'appareil WestJet, plus d'espace pour les jambes et embarquement prioritaire",
+        "why": "Nouveau pour l'hiver 2026-27 sur les vols soleil de WestJet."
+      }
     }
   ],
-  "intro_sentence": "Three things worth adding before checkout. Tap any you want, or skip them all."
+  "intro_sentence": "Three things worth adding before checkout. Tap any you want, or skip them all.",
+  "fr": {
+    "intro_sentence": "Trois choses à considérer avant le paiement. Touchez celles qui vous intéressent, ou passez."
+  }
 }
